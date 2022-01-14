@@ -1,0 +1,12 @@
+.map__image {
+  width: 50%;
+  float: left;
+}
+.map__image path {
+  fill: rgb(126, 134, 160);
+  stroke: rgb(19, 233, 111);
+  stroke-width: 1px;
+}
+.map__image path:hover {
+  fill: rgb(180, 10, 95);
+}
